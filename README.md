@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abdirinoahash" target="blank"><img src="https://img.shields.io/twitter/follow/@abdirinoahash?logo=twitter&style=for-the-badge" alt="@abdirinoahash" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [abdirino.github.io/Abdirino-s-PortFolio/](abdirino.github.io/Abdirino-s-PortFolio/)
+- 👨‍💻 All of my projects are available at [https://abdirino.github.io/Abdirino-s-PortFolio/](https://abdirino.github.io/Abdirino-s-PortFolio/)
 
 - 📫 How to reach me **abdirinoahash@gmail.com**
 
