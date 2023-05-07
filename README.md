@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdi-rahman Abdulaziz</h1>
-<h3 align="center">SOFTWARE DEVELOPER.</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">MY NAME IS ABDIRAHMAN ABDULAZIZ, A SOFTWARE DEVELOPER.💻</h3>
 
 <img align="center" src="https://www.lambdatest.com/resources/images/news24.gif" alt="abdirino-Coding" width="1000" >
 
