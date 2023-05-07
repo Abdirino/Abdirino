@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdi-rahman Abdulaziz</h1>
-<h3 align="center">I am a passionate front-end developer. I have a deep understanding of the way people interact with technology, and use that knowledge to create stunning, immersive web experiences that leave a lasting impression.</h3>
+<h3 align="center">SOFTWARE DEVELOPER.</h3>
 
-<img align="center" src="https://www.lambdatest.com/resources/images/news24.gif" alt="abdirino-Coding" width="1000">
+<img align="center" src="https://www.lambdatest.com/resources/images/news24.gif" alt="abdirino-Coding" width="1000" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirino&label=Profile%20views&color=0e75b6&style=flat" alt="abdirino" /> </p>
 
