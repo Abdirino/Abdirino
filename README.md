@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋</h1>
+<p>Why do programmers prefer dark mode? Because light attracts bugs! 🪰</p>
 
 <img align="center" src="https://www.lambdatest.com/resources/images/news24.gif" alt="abdirino-Coding" width="1000" >
 
@@ -6,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abdirinoahash" target="blank"><img src="https://img.shields.io/twitter/follow/@abdirinoahash?logo=twitter&style=for-the-badge" alt="@abdirinoahash" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://abdirino.github.io/Abdirino-s-PortFolio/](https://abdirino.github.io/Abdirino-s-PortFolio/)
+- 👨‍💻 All of my projects are available at [https://abdirino-s-portfolio.vercel.app/](https://abdirino-s-portfolio.vercel.app/)
 
 - 📫 How to reach me **abdirinoahash@gmail.com**
 
