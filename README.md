@@ -1,5 +1,4 @@
 <h1 align="center">Hi there👋</h1>
-<p>Why do programmers prefer dark mode? Because light attracts bugs! 🪰</p>
 
 <img align="center" src="https://www.lambdatest.com/resources/images/news24.gif" alt="abdirino-Coding" width="1000" >
 
