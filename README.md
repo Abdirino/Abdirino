@@ -4,16 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirino&label=Profile%20views&color=0e75b6&style=flat" alt="abdirino" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@abdirinoahash" target="blank"><img src="https://img.shields.io/twitter/follow/@abdirinoahash?logo=twitter&style=for-the-badge" alt="@abdirinoahash" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@abdirinoahash" target="blank"><img src="https://img.shields.io/twitter/follow/@abdirinoahash?logo=twitter&style=for-the-badge" alt="@abdirinoahash" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://abdirino-s-portfolio.vercel.app/](https://abdirino-s-portfolio.vercel.app/)
 
 - 📫 How to reach me **abdirinoahash@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abdirinoahash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdirinoahash" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
