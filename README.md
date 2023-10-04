@@ -9,13 +9,9 @@
 
 - 👨‍💻 All of my best projects, Information and Contacts are available at [https://abdirino-s-portfolio.vercel.app/](https://abdirino-s-portfolio.vercel.app/)
 
-- 🌟 Here, you'll find a collection of my projects, experiments, and contributions to the ever-evolving tech universe. Whether it's crafting elegant code, tackling complex challenges, or exploring the latest trends, I'm always on the quest for innovation. 🌐
-
 - 🔧 From JavaScript and React to Project Management and UI/UX Design , I love diving into diverse tech stacks and bringing ideas to life. My journey in the world of coding has been an exciting one, and I'm thrilled to share it with you. 💡
 
 - 📚 Feel free to explore my repositories, raise issues, contribute, or just say hi! Collaboration and learning are at the heart of what I do, and I'm excited to connect with fellow tech enthusiasts and developers from around the globe. 🌍
-
-- 📌 Currently, I'm working on Mastering Next.Js, so stay tuned for updates and insights. If you have any questions, suggestions, or just want to chat about all things tech, don't hesitate to reach out. Let's code, innovate, and make the digital world a better place together! 🤝
 
 - 📬 You can contact me via [Email = **abdirinoahash@gmail.com** /LinkedIn = https://www.linkedin.com/in/abdirahman-abdulaziz/ /Twitter = https://twitter.com/AbdirinoAhash] or connect on other social platforms. Let's connect and embark on this coding adventure together! 🚀
 
