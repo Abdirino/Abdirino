@@ -1,4 +1,4 @@
-<h1 align="center"> # Welcome to My GitHub Playground 🚀</h1>
+<h1 align="center">Welcome to My GitHub Playground 🚀</h1>
 <h3 align="center">👋 Hey there, I'm Abdirahman Abdulaziz, a passionate Front-End Developer, and this is where I unleash my coding creativity! 🖥️</h3>
 
 <!-- <img align="center" src="https://www.lambdatest.com/resources/images/news24.gif" alt="abdirino-Coding" width="1000" > -->
